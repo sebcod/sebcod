@@ -14,7 +14,7 @@
   [![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![React](https://img.shields.io/badge/-React-0D1117?logo=react)](https://react.dev/)
  -->
-  [![Next](https://img.shields.io/badge/next.js-0D1117?logo=nextdotjs)](https://next.dev/)
+  [![Next](https://img.shields.io/badge/next.js-0D1117?logo=nextdotjs)](https://nextjs.org/)
   [![Next](https://img.shields.io/badge/tailwindcss-0D1117?logo=tailwindcss)](https://tailwindcss.com/)
 
   
