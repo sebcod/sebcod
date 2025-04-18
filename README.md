@@ -2,12 +2,12 @@
 
 
 <div align="center">
+### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Hi%20there%20👋&fontAlignY=50&descAlign=25&fontAlign=50&animation=twinkling&reversal=true&textBg=false&section=header"  width= 50%/>
  
 
  <!--
- ### Hi there 👋
+ <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Hi%20there%20👋&fontAlignY=50&descAlign=25&fontAlign=50&animation=twinkling&reversal=true&textBg=false&section=header"  width= 50%/>
    Developer.inProgress
 
   [![HTML5](https://img.shields.io/badge/-HTML5-0D1117?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
